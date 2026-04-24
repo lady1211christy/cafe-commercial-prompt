@@ -1,0 +1,5 @@
+interface:
+  display_name: 飲品商攝 10 版型 Prompt Skill
+  short_description: 上傳飲料圖、輸入飲料名稱與材料，從 10 種版型中選 1 種，直接生成最終 prompt 套組
+  category: writing
+  icon: coffee
